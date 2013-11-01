@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SharePhote</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">SHARING PHOTO</string>
+    <string name="buttonQuit">ShareLater</string>
+    <string name="buttonStart">BeginSharing</string>
+    <string name="openCamera">打开相机</string>
+    <string name="common_msg_nosdcard">没有sdcard</string>
+
+</resources>
